@@ -1,0 +1,47 @@
+Global Ecomm Team
+	--> General Channel 
+		--> Owner: Chai and Majlinda 
+		--> Webhook Name: Release Team
+		--> Webhook URL: 
+
+Quality Team 
+	--> General Channel 
+		--> Owner: Mekin, Asmita, Sumith, Christin bartel 
+		--> Webhook Name: Release Team
+		--> Webhook URL: 
+
+Major and Off Cadence Channel 
+	--> General 
+		--> Owner: Maura, Rohit, Maisa 
+		--> Webhook Name: Release Team
+		--> Webhook URL: https://dpz.webhook.office.com/webhookb2/57b5f37d-d48f-4e71-99fa-1939cef465b5@7c30dbb8-800e-499b-b8d6-68776f8bc954/IncomingWebhook/91461501af614041a0f87cc91fe2377c/dbec4612-7385-4673-b29b-fbe8d79f51fa/V2vc_7sRnOHObE6dFin50F-zPDelL3dCrmOAY__44umN01
+	
+	--> Release Team Chat 
+		--> Owner: Maura, Rohit, Maisa 
+		--> Webhook Name: Release Team
+		--> Webhook URL: https://dpz.webhook.office.com/webhookb2/57b5f37d-d48f-4e71-99fa-1939cef465b5@7c30dbb8-800e-499b-b8d6-68776f8bc954/IncomingWebhook/21b1291156e34237bc0faad6864d98a7/dbec4612-7385-4673-b29b-fbe8d79f51fa/V2b0dyWP6PwnKSDeAUAsrFTc9F61Ydk0BI43qKSOjtnEI1
+	
+Alsea Program 
+	--> General 
+		--> Owner: Mellisa, Brandon, Majlinda 
+		--> Webhook Name: Release Team.
+		--> Webhook URL: 
+		
+Canada Ecommerce 
+	--> General 
+		--> Owner: Mellisa, Niharika, Majlinda 
+		--> Webhook Name: Release Team.
+		--> Webhook URL: 
+		
+OLO Redesign
+	--> General 
+		--> Owner: 25 members ( Matheus, Max shikman, Joao, Zach)
+		--> Webhook Name: Release Team.
+		--> Webhook URL:		
+		
+Ecomm Cloud Savanages
+	--> General 
+		--> Owner: Maura, Keith
+		--> Webhook Name: Release Team.
+		--> Webhook URL:
+		
