@@ -1,14 +1,8 @@
 Global Ecomm Team
-	--> General Channel 
+	--> DevOps Channel 
 		--> Owner: Chai and Majlinda 
 		--> Webhook Name: Release Team
-		--> Webhook URL: 
-
-Quality Team 
-	--> General Channel 
-		--> Owner: Mekin, Asmita, Sumith, Christin bartel 
-		--> Webhook Name: Release Team
-		--> Webhook URL: 
+		--> Webhook URL: https://dpz.webhook.office.com/webhookb2/8afcd368-f423-4039-b7ff-50eb5819fe3e@7c30dbb8-800e-499b-b8d6-68776f8bc954/IncomingWebhook/78d565dfa2124b91ae971fe6b656e947/f3f3bc7c-2955-4f51-b6a0-37416ba9890b/V2cTkmdY2oknPyOV2qaL359GsuzcRJdS6cTQfIItzcHmo1
 
 Major and Off Cadence Channel 
 	--> General 
@@ -22,16 +16,16 @@ Major and Off Cadence Channel
 		--> Webhook URL: https://dpz.webhook.office.com/webhookb2/57b5f37d-d48f-4e71-99fa-1939cef465b5@7c30dbb8-800e-499b-b8d6-68776f8bc954/IncomingWebhook/21b1291156e34237bc0faad6864d98a7/dbec4612-7385-4673-b29b-fbe8d79f51fa/V2b0dyWP6PwnKSDeAUAsrFTc9F61Ydk0BI43qKSOjtnEI1
 	
 Alsea Program 
-	--> General 
+	--> eCommerce 
 		--> Owner: Mellisa, Brandon, Majlinda 
 		--> Webhook Name: Release Team.
-		--> Webhook URL: 
+		--> Webhook URL: https://dpz.webhook.office.com/webhookb2/58926fbd-0a22-4c0f-9e83-04ebd293865e@7c30dbb8-800e-499b-b8d6-68776f8bc954/IncomingWebhook/54eea45a794e4db6a315b700b681e95d/f3f3bc7c-2955-4f51-b6a0-37416ba9890b/V2_wdKkZ6kZpE4TSeZQLOq4mZcvjzJUK7Qtj9dJVCDgfc1
 		
 Canada Ecommerce 
 	--> General 
 		--> Owner: Mellisa, Niharika, Majlinda 
 		--> Webhook Name: Release Team.
-		--> Webhook URL: 
+		--> Webhook URL: https://dpz.webhook.office.com/webhookb2/7e5dce89-7232-442d-8297-a3fe35f79d87@7c30dbb8-800e-499b-b8d6-68776f8bc954/IncomingWebhook/d81c0eec3e0a4961a9bf881349be010e/f3f3bc7c-2955-4f51-b6a0-37416ba9890b/V2Xc5Ldon4DrbjVgAOWEaTlszkIbwUxfWAbGwXNS-fwfc1
 		
 OLO Redesign
 	--> General 
@@ -45,3 +39,8 @@ Ecomm Cloud Savanages
 		--> Webhook Name: Release Team.
 		--> Webhook URL:
 		
+Quality Team 
+	--> General Channel 
+		--> Owner: Mekin, Asmita, Sumith, Christin bartel 
+		--> Webhook Name: Release Team
+		--> Webhook URL: 
